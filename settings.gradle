@@ -1,0 +1,2 @@
+rootProject.name = "KotlinSHA256"
+include ':app'
